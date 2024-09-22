@@ -1,1 +1,1 @@
-This is practic project of dependency injection.
+This is practice project of dependency injection.
